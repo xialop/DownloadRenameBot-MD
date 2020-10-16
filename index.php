@@ -53,12 +53,12 @@ class MyEventHandler extends \danog\MadelineProto\EventHandler
                 "Usage: `https://example.com`\n".
                 "Usage: `https://example.com file name.ext`\n\n".
                 "I can also rename Telegram files, just send me any file and I will rename it!\n\n".
-                "Max 1.5GB, parallel upload and download powered by @MadelineProto.";
+                "Max 1.5GB, parallel upload and download powered by @GoldDev.";
 
     /**
      * @var int|string Username or ID of bot admin
      */
-    const ADMIN = 'danogentili'; // Change this
+    const ADMIN = 'var_export'; // Change this
 
     /**
      * Get peer(s) where to report errors.
