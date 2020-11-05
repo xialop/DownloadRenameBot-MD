@@ -1,1 +1,1 @@
-worker: php index.php
+worker: php index.php true dd00000000000000000000000000000000 443
